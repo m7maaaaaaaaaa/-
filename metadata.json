@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Chemistry Lab | المعمل الكيميائي الافتراضي",
+  "description": "An interactive bilingual (Arabic/English) virtual chemistry laboratory with a complete 118-element periodic table, realistic reaction simulator, molecular calculators, equation balancer, and chemistry quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
